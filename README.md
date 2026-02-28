@@ -1,6 +1,6 @@
 # ConcuRide
 
-Trabajo practico grupal de 3 integrantes para la materia [Técnicas de Programación Concurrente I](https://concurrentes-fiuba.github.io/Inicio.html) en el cual se implementa una aplicación distribuida y concurrente en [Rust](https://doc.rust-lang.org/book/) que modela un sistema de conexión entre conductores y pasajeros.
+Trabajo practico grupal de 3 integrantes para la materia [Programación Concurrente](https://concurrentes-fiuba.github.io/Inicio.html) en el cual se implementa una aplicación distribuida y concurrente en [Rust](https://doc.rust-lang.org/book/) que modela un sistema de conexión entre conductores y pasajeros.
 
 ConcuRide simula un sistema distribuido de oferta y aceptación de viajes donde:
 1. Varias instancias de pasajeros solicitan viajes desde un punto de origen hasta un destino.
